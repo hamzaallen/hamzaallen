@@ -5,7 +5,7 @@ PhD in Mathematics & Computer Science | University of Cagliari
 
 I build and evaluate machine learning systems that connect research with practical engineering—from scientific data analysis and industrial predictive modeling to retrieval-augmented AI applications.
 
-🌐 **[Explore my portfolio](https://hamzaallen.github.io/ml-engineering-research-portfolio/)** · 📄 **[View my CV](https://hamzaallen.github.io/ml-engineering-research-portfolio/assets/Hamza_El_Byad_CV.pdf)** · ✉️ **[Email me](mailto:elbyadhamza@gmail.com)**
+🌐 **[Explore my portfolio](https://hamzaallen.github.io/ml-engineering-research-portfolio/)** · 📄 **[Research CV](https://hamzaallen.github.io/ml-engineering-research-portfolio/assets/Hamza_El_Byad_Research_CV.pdf)** · 📄 **[ML Engineering CV](https://hamzaallen.github.io/ml-engineering-research-portfolio/assets/Hamza_El_Byad_ML_Engineering_CV.pdf)** · ✉️ **[Email me](mailto:elbyadhamza@gmail.com)**
 
 ## Selected work
 
